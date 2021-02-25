@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+.nav__main {
+  width: 100%;
+  height: 10vh;
+  background-image: linear-gradient(
+    to left,
+    #21595e,
+    #246977,
+    #2d7991,
+    #4088ac,
+    #5a96c7,
+    #5c9ccd,
+    #5da2d4,
+    #5fa8da,
+    #48a6cb,
+    #3ca3ba,
+    #3d9ea7,
+    #469994
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav__title h2 {
+  color: aliceblue;
+  font-size: 35px;
+  font-family: "Source Sans Pro", sans-serif;
+}
